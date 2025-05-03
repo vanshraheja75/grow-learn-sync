@@ -41,7 +41,8 @@ Prioritize discovery, trust, scheduling, and asynchronous knowledge exchange.
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [https://www.youtube.com/watch?v=FhSCZpIDjOM]  
+- **Demo Video Link:** [https://www.youtube.com/watch?v=FhSCZpIDjOM]
+- **Project Video Link:** [https://grow-learn-sync.vercel.app/]
 
 ---
 
