@@ -41,8 +41,7 @@ Prioritize discovery, trust, scheduling, and asynchronous knowledge exchange.
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Demo Video Link:** [https://www.youtube.com/watch?v=FhSCZpIDjOM]  
 
 ---
 
