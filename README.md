@@ -1,73 +1,138 @@
-# Welcome to your Lovable project
+![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
-## Project info
+# 🚀 Project Title
 
-**URL**: https://lovable.dev/projects/b4a8c40c-1d48-4875-a1ac-997b47c84667
+> A one-line tagline or mission statement for your project.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📌 Problem Statement
 
-**Use Lovable**
+Select the problem statement number and title from the official list given in Participant Manual.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b4a8c40c-1d48-4875-a1ac-997b47c84667) and start prompting.
+**Example:**  
+**Problem Statement 7 – Transform the Future of Rural Commerce**
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🎯 Objective
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+What problem does your project solve, and who does it serve?  
+Briefly describe the real-world use case and the value it provides.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🧠 Team & Approach
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Team Name:  
+`Your team name here`
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Team Members:  
+- Name 1 (GitHub / LinkedIn / Role)  
+- Name 2  
+- Name 3  
+*(Add links if you want)*
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Your Approach:  
+- Why you chose this problem  
+- Key challenges you addressed  
+- Any pivots, brainstorms, or breakthroughs during hacking  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies Used:
+- Frontend:
+- Backend:
+- Database:
+- APIs:
+- Hosting:
+
+### Sponsor Technologies Used (if any):
+- [ ] **Groq:** _How you used Groq_  
+- [ ] **Monad:** _Your blockchain implementation_  
+- [ ] **Fluvio:** _Real-time data handling_  
+- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
+- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
+- [ ] **Stellar:** _Payments, identity, or token usage_
+*(Mark with ✅ if completed)*
+---
+
+## ✨ Key Features
+
+Highlight the most important features of your project:
+
+- ✅ Feature 1  
+- ✅ Feature 2  
+- ✅ Feature 3  
+- ✅ Feature 4  
+
+Add images, GIFs, or screenshots if helpful!
+
+---
+
+## 📽️ Demo & Deliverables
+
+- **Demo Video Link:** [Paste YouTube or Loom link here]  
+- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+
+---
+
+## ✅ Tasks & Bonus Checklist
+
+- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
+- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
+
+*(Mark with ✅ if completed)*
+
+---
+
+## 🧪 How to Run the Project
+
+### Requirements:
+- Node.js / Python / Docker / etc.
+- API Keys (if any)
+- .env file setup (if needed)
+
+### Local Setup:
+```bash
+# Clone the repo
+git clone https://github.com/your-team/project-name
+
+# Install dependencies
+cd project-name
+npm install
+
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Provide any backend/frontend split or environment setup notes here.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🧬 Future Scope
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+List improvements, extensions, or follow-up features:
 
-## What technologies are used for this project?
+- 📈 More integrations  
+- 🛡️ Security enhancements  
+- 🌐 Localization / broader accessibility  
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📎 Resources / Credits
 
-## How can I deploy this project?
+- APIs or datasets used  
+- Open source libraries or tools referenced  
+- Acknowledgements  
 
-Simply open [Lovable](https://lovable.dev/projects/b4a8c40c-1d48-4875-a1ac-997b47c84667) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 🏁 Final Words
 
-Yes, you can!
+Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
